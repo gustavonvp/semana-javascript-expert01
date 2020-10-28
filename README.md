@@ -27,3 +27,7 @@ Para cada dia, o código fonte completo da aula será adicionado aqui
 
 - Para poder lidar com as propriedades do video, extraindo diferentes formatos (144p,360p,720p), utilizar a lib do FFMPEG, que permite configurar o CODEC, e seus rates e buffers,   e pode ser instalado via CHOCOLATEY, ou baixando na internet (binário) e configurar variável local para /bin do diretório do FFMPEG. Baixar também o FFPROBE que permite           vizualisar os dados do vídeo (arquivo) de maneira mais organizada, onde um humano possa ler tals dados e a maquina também possa entender certas 'STRINGS' contidas nos meta-dados   do arquivo .mp4
 
+
+
+:muscle: :walking:
+Criei a Branch MODIFICANDO para gerar commits de possíveis modificaçoes no projeto a qual apliquei FORK do criador deste, que é o Erick Wendel
